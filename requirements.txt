@@ -1,0 +1,10 @@
+streamlit
+pymupdf
+streamlit
+pandas
+matplotlib
+PyMuPDF
+pdfplumber
+google-generativeai
+protobuf
+
