@@ -10,7 +10,7 @@ import os
 from calendar import month_name  # ✅ Fixed missing import
 
 # Set up Google GenAI API
-genai.configure(api_key="AIzaSyAbKDqp7HafNGdWAMorvchUA65-dq1-_Z4")
+genai.configure(api_key="AIzaSyAb...........")
 model = genai.GenerativeModel("gemini-2.5-flash")
 
 # Function to extract text from uploaded PDF
